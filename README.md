@@ -28,7 +28,7 @@ A scalable **Selenium Automation Framework** built using **Java**, **TestNG**, a
 
 ---
 
-## ▶️ Run Tests
+## Run Tests
 
 ```bash
 git clone https://github.com/Arshdeep-automation/selenium-automation-framework.git
